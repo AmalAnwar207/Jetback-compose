@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JetPackCompose Basic to Intermediate
 
 # Introduction
@@ -202,3 +203,6 @@ SOFTWARE.
 Kaushal Vasava
 
 If you like my work then Follow me on LinkedIn, Twitter for more information related to app development, Kotlin, etc and Add to Favorite on Github .
+=======
+# Jetback-compose
+>>>>>>> 725cd66a35d4f4e16c805e6d3df47a523b645283
